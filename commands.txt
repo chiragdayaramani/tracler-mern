@@ -2,3 +2,8 @@ cd client
 npx create-react-app .
 npm start
 
+
+
+cd server
+npm init -y
+npm install express
